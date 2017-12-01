@@ -4,11 +4,11 @@ Custom scripts for studying mammalian sperm methylome evolution
 ### Dependency ###
 - [MethPipe](https://github.com/smithlabcode/methpipe)
 - [Epiphyte](https://github.com/smithlabcode/epiphyte)
-- [adssrc](https://github.com/andrewdavidsmith/adssrc): `collapsebed`
-- [rmap](https://github.com/smithlabcode/rmap): `rmapbs`, `mapsifter`, `sortbed`
+- [adssrc](https://github.com/andrewdavidsmith/adssrc) 
+- [rmap](https://github.com/smithlabcode/rmap)
 - [bedtools](https://github.com/arq5x/bedtools2/)
 - [UCSC Genome Browser Utilities](http://hgdownload.soe.ucsc.edu/admin/exe/): `liftOver`, `mafSpeciesSubset`
-- R and R libraries ggplot2, grid, rphast
+- R and R libraries `ggplot2`, `grid`, `rphast`
 - Python 2.7
 - [Galaxy](https://github.com/galaxyproject/galaxy/): `maf_thread_for_species.py`, `maf_to_fasta_concat.py`
 
